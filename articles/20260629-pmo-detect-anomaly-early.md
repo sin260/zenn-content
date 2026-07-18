@@ -3,7 +3,7 @@ title: "PMOが「異変の兆候」を拾い上げるまで──管理情報の
 emoji: "🔍"
 type: "idea"
 topics: ["PMO", "リスク管理", "プロジェクト管理", "ガバナンス", "品質管理"]
-published: false
+published: true
 ---
 
 # PMOが「異変の兆候」を拾い上げるまで──管理情報のトレンドから異常を早期発見する5つの実例
