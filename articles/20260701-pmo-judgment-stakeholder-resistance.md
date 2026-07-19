@@ -3,7 +3,7 @@ title: "ステークホルダーが要件追加を拒まないとき、PMOはど
 emoji: "🧭"
 type: "idea"
 topics: ["PMO", "ステークホルダーマネジメント", "プロジェクト管理", "ガバナンス", "要件管理"]
-published: true
+published: false
 ---
 
 # ステークホルダーが要件追加を拒まないとき、PMOはどう動くか──「No」を言えない現場の判断訓練
