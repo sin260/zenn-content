@@ -3,7 +3,7 @@ title: "PMOが「構造問題」を言語化した瞬間、現場が動き始め
 emoji: "🧩"
 type: "idea"
 topics: ["PMO", "リスク管理", "プロジェクト管理", "ガバナンス", "組織改善"]
-published: false
+published: true
 ---
 
 # PMOが「構造問題」を言語化した瞬間、現場が動き始めた──5つの実例から見える共通項
