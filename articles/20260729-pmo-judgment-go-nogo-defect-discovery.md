@@ -3,7 +3,7 @@ title: "本番前日に重大欠陥が発覚した時、PMOはどう動くか─
 emoji: "🚦"
 type: "idea"
 topics: ["PMO", "リスク管理", "プロジェクト管理", "ガバナンス", "本番移行"]
-published: false
+published: true
 ---
 
 # 本番前日に重大欠陥が発覚した時、PMOはどう動くか──Go/No-Goの判断訓練
